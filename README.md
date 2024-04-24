@@ -37,12 +37,14 @@ c=np.linalg.solve(A,B)
 print(c)
 ```
 ## Output:
+
 (i) To find the L and U matrix
 
 ![Screenshot 2024-04-24 094630](https://github.com/pradeep23014186/LU-Decomposition/assets/152294642/3592305c-5c1b-4422-b643-ff509b0fd253)
 
 (ii) To find the LU Decomposition of a matrix
-![Screenshot 2024-04-24 094651](https://github.com/pradeep23014186/LU-Decomposition/assets/152294642/bced9551-0e8c-4687-97e1-400b944291fb)
+
+![Screenshot 2024-04-24 100253](https://github.com/pradeep23014186/LU-Decomposition/assets/152294642/67a779bd-8d44-46a9-850d-293f9a663168)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
